@@ -1,0 +1,6 @@
+{
+  "name": "Khyber Real Estate & Property CRM",
+  "description": "Commercial property marketplace and dealer SaaS CRM built for the Peshawar real estate market, featuring public listings, lead pipelines, deal tracking, and automated property matching.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
